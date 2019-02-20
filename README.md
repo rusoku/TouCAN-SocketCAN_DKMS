@@ -1,4 +1,4 @@
-SocketCAN linux driver for Toucan USB to CAN bus converter
+SocketCAN linux driver for TouCAN USB to CAN bus converter
 ====
 
 Building kernel module

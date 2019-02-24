@@ -1,0 +1,5 @@
+# Set persistent name for CAN interface using device serial number
+
+SUBSYSTEM=="net", ATTRS{idVendor}=="16d0", ATTRS{idProduct}=="0eac", ATTRS{serial}=="00000001", NAME="toucan1"
+SUBSYSTEM=="net", ATTRS{idVendor}=="16d0", ATTRS{idProduct}=="0eac", ATTRS{serial}=="00000002", NAME="toucan2"
+

@@ -48,7 +48,7 @@ Shut down interface
     sudo rmmod toucan
 
 
-Send and recieve data
+Send and receive data
 ----
 
     sudo add-apt-repository universe
